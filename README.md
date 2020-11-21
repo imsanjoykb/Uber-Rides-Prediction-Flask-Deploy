@@ -9,6 +9,6 @@ Email: sanjoy.eee32@gmail.com <br>
 • A glimpse of the web app: <br>
 
 <img src="https://github.com/imsanjoykb/Uber-Rides-Prediction-Flask-Deploy/blob/master/Deploy/Siteview.PNG">
-<img src="/Prediction.PNG" width="898" height="394.27"/>
+<img src="https://github.com/imsanjoykb/Uber-Rides-Prediction-Flask-Deploy/blob/master/Deploy/Prediction.PNG">
 <img src="/Siteview.PNG" width="898" height="594.27"/>
 
