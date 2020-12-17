@@ -18,5 +18,5 @@ Email: sanjoy.eee32@gmail.com <br>
 
 <img src="https://github.com/imsanjoykb/Uber-Rides-Prediction-Flask-Deploy/blob/master/Deploy/Btrview.PNG">
 
-Thank you all
+Thank you all...
 
