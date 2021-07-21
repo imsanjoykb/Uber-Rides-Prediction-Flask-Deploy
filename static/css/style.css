@@ -98,7 +98,8 @@ body{
 	color: #8c8c8c;
 }
 
-/* Footer */
+/* Footer Section */
+
 .footer{
 	flex-shrink: 0;
 	position: relative;
